@@ -23,7 +23,9 @@ sections:
   content: "My name is Veronica Picciafuoco and I'm based in \U0001F332Palo Alto\U0001F332.
     I’ve been working in tech for about 9 years. My focus area for the past few years
     has been **B2B product marketing** for online marketplaces (advertising, analytics,
-    legal tech)."
+    legal tech).\n\n    <iframe src=\"https://veronica.substack.com/embed\" width=\"480\"
+    height=\"320\" style=\"border:1px solid #EEE; background:white;\" frameborder=\"0\"
+    scrolling=\"no\"></iframe>"
   image: ''
 - type: postsblock
   template: postsblock
