@@ -21,10 +21,10 @@ sections:
   - label: Contact Me
     url: "/contact"
   component: content_block.html
-  content: This is the "about" excerpt. It can be used to provide a paragraph about
-    yourself that people can read on the homepage to get a sense of who you are. There
-    also exists a dedicated about page where you can write more about yourself for
-    those who are interested.
+  content: "My name is Veronica Picciafuoco and I'm based in \U0001F332Palo Alto\U0001F332.
+    I’ve been working in tech for about 9 years. My focus area for the past few years
+    has been **B2B product marketing** for online marketplaces (advertising, analytics,
+    legal tech)."
   image: ''
 - type: postsblock
   template: postsblock
