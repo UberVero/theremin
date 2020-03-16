@@ -1,11 +1,11 @@
 ---
 title: 'Power vs usability: building a website in 2020'
 date: 2020-03-01 08:00:00 +0000
-thumb_img_path: images/9.jpg
-content_img_path: images/9.jpg
-excerpt: Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities. They are sometimes referred to as
-  a WAHM (work at home mom) or a WAHD (work at home dad).
+thumb_img_path: "/images/intro.jpg"
+content_img_path: ''
+excerpt: I want a powerful web app that I can control end-to-end. But since I'm not
+  a developer, I also need it to be usable. This dichotomy had me look hard for a
+  web stack that would let me have it all.
 layout: post
 subtitle: 'I got my hands dirty in web development stacks and channeled my inner Ben
   Thompson. #longread'
