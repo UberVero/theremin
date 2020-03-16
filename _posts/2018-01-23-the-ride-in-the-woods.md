@@ -1,23 +1,23 @@
 ---
-title: The Ride In The Woods
-subtitle: A cautionary tale about riding
-date: '2018-01-23'
-thumb_img_path: images/3.jpg
-content_img_path: images/3.jpg
-excerpt: >-
-  The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+title: 'Looking back on 30 months at Amazon: the PR FAQ'
+subtitle: Use and abuse of the infamous "PR FAQ" document
+date: 2020-02-05 08:00:00 +0000
+thumb_img_path: "/images/intro.jpg"
+content_img_path: ''
+excerpt: 'The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing
+  elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. '
 layout: post
+canonical_url: ''
+
 ---
+_Working backwards_ is the magic formula Amazon gives employees to stay _customer obsessed_, the first[ leadership principle](https://www.amazon.jobs/en/principles). The main process to work backwards is the [PR FAQ](https://medium.com/pminsider/press-releases-for-product-managers-everything-you-need-to-know-942485961e31), a six-page document that forces you to spell out the vision for your idea, in the form of a press release (PR), and anticipate what you’ll need to do to get there (FAQ). The PR-FAQ is a hard feat of business writing that includes a fake press release at the beginning, followed by what's essentially a self-interview; the questions in the FAQ can include: "Why should we do this now?" and "What can go wrong?".
 
-The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh venenatis cras sed felis eget velit aliquet sagittis id. Pellentesque dignissim enim sit amet venenatis urna cursus. Faucibus turpis in eu mi bibendum neque egestas congue quisque. Hac habitasse platea dictumst vestibulum rhoncus est. Sit amet cursus sit amet. Habitant morbi tristique senectus et netus et. Dolor morbi non arcu risus quis. Dignissim diam quis enim lobortis. Sit amet cursus sit amet dictum. Senectus et netus et malesuada fames ac turpis egestas sed. Felis imperdiet proin fermentum leo vel orci porta non pulvinar. Malesuada pellentesque elit eget gravida. Elementum pulvinar etiam non quam lacus.
+Such a long document is mandatory to make decision because Jeff Bezos believes writing is the great equalizer of ideas. An engineer might be not be good at storytelling, presentations or speaking in public, but can put some work in defining her idea and get resources to build it from management. While that is not necessarily true, and I've seen many engineers struggle with writing as much as they struggle in public speaking, the PR-FAQ process is definitely the most valuable thing I learned at Amazon and made a difference in the quality of my work, even when I was not the one writing it (sometimes you are part of the review, or you read an old one to bring yourself up to speed on a project).
 
-## The Ride
+It doesn’t have to be as long and rigid as the one Amazon has: the point is that writing things down forces you to do the work needed to make ideas become reality, think ahead of risks to mitigate, and make sure you are solving a real customer problem that is news worthy. It's also refreshing and rewarding to see people actually taking the time to read and pay attention to what you write.
 
-Purus sit amet luctus venenatis lectus magna fringilla urna. Lacus laoreet non curabitur gravida arcu ac. Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Pretium viverra suspendisse potenti nullam ac tortor vitae. Bibendum est ultricies integer quis auctor elit sed. Suscipit tellus mauris a diam maecenas. Interdum consectetur libero id faucibus nisl tincidunt eget. Velit egestas dui id ornare. Tincidunt eget nullam non nisi est sit amet facilisis. Nibh sed pulvinar proin gravida hendrerit. Vulputate mi sit amet mauris commodo quis imperdiet. Sit amet consectetur adipiscing elit pellentesque habitant. Amet tellus cras adipiscing enim eu turpis egestas. Leo duis ut diam quam nulla porttitor massa. Sit amet risus nullam eget felis. Sed viverra ipsum nunc aliquet. Enim praesent elementum facilisis leo. Amet mauris commodo quis imperdiet massa tincidunt.
+As every process, it can be abused and manipulated. In my time at Amazon, nothing has slowed a project down as much as being asked to write and rewrite a PR-FAQ that plans it. Or your manager asking you to reduce the scope to make the delivery realistic, only to have your manager’s manager tell you you’re not “thinking big” (another Leadership Principle). Few things are as painful and demoralizing as spending hours developing your idea into words with such precision that it’s almost real, and watch it land in apathy. Most of the “doc reviews” meeting I’ve attended were informational, but not constructive, and there were no next steps. We won’t build it, but it’s not clear why.
 
-## Motorcycle
+To explain this to a colleague, I came up with this concept of “emotional battery”. When we want to rally people around a project we are passionate about, and we hope to inspire action, we need to be willing to “drain our emotional battery” and potentially see it rejected. Self-awareness of one’s “emotional battery” is key in striking a balance between picking battles and making an impact at work. Like in love, to win big you have to be ready to go all-in, and face the risk to have you heart shattered, knowing it was worth it. But you also can’t go all-in all the time. And if your lover keeps draining your battery, it’s time to take your passion where it doesn’t go to waste.
 
-Congue eu consequat ac felis donec et. Nulla facilisi cras fermentum odio eu feugiat. Non tellus orci ac auctor. Justo donec enim diam vulputate ut pharetra sit. Mauris vitae ultricies leo integer malesuada nunc vel risus. Nunc eget lorem dolor sed viverra ipsum nunc aliquet. Sit amet nisl suscipit adipiscing bibendum. Vitae suscipit tellus mauris a diam. Erat pellentesque adipiscing commodo elit. Amet consectetur adipiscing elit pellentesque habitant. Est ante in nibh mauris cursus mattis molestie a. Sem viverra aliquet eget sit amet tellus cras adipiscing enim. Etiam sit amet nisl purus in mollis.
-
-Risus pretium quam vulputate dignissim. Et pharetra pharetra massa massa ultricies mi quis hendrerit. Pharetra massa massa ultricies mi quis hendrerit dolor. Id eu nisl nunc mi ipsum faucibus vitae aliquet nec. Nunc sed velit dignissim sodales ut eu sem. Vel facilisis volutpat est velit egestas. Mauris pellentesque pulvinar pellentesque habitant morbi. Sit amet purus gravida quis blandit turpis cursus in. Nullam ac tortor vitae purus faucibus. Gravida dictum fusce ut placerat orci. Urna molestie at elementum eu facilisis sed odio. Blandit massa enim nec dui nunc mattis. Pellentesque massa placerat duis ultricies. Accumsan sit amet nulla facilisi morbi tempus iaculis urna. Orci porta non pulvinar neque laoreet. Duis ultricies lacus sed turpis tincidunt. Feugiat in ante metus dictum at tempor commodo ullamcorper. Risus nec feugiat in fermentum posuere urna.
+I left Amazon in November 2020, 30 months after joining.
