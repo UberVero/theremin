@@ -5,8 +5,8 @@ permalink: "/:title/"
 layout_style: overflow
 palette: orange
 header:
-  title: Stackbit Fresh
-  tagline: Header Tagline
+  title: Veronica's page
+  tagline: My online résumé
   profile_img: "/images/veronica.png"
   bg: dark
   has_nav: true
